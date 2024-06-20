@@ -1,4 +1,10 @@
-## Heyo
+## HEYO
+
+#my repos gotta stay private ¯\_(ツ)_/¯ 
+
+check out my crime mapping thing at https://opencrime.io 
+
+currently working on some edtech software....
 
 <!--
 **winnmurray/winnmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
