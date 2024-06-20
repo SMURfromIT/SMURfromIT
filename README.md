@@ -1,4 +1,4 @@
-## HEY, I'M WINN 
+## HEY, I'M STEPHEN
 
 ### Fresh grad writing some software 📝
 ### Check out my crime mapping app at https://opencrime.io 👮
