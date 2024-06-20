@@ -1,6 +1,6 @@
 ## HEY, I'M WINN
 
-# check out my crime mapping thing at https://opencrime.io 
+### check out my crime mapping thing at https://opencrime.io 
 
 currently working on some edtech software....
 
