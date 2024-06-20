@@ -1,8 +1,8 @@
 ## HEY, I'M WINN 👋
 
 ### Fresh grad writing some software 📝
-### Check out my crime mapping thing at https://opencrime.io 👮
-#### Currently working on an edtech thing.
+### Check out my crime mapping app at https://opencrime.io 👮
+#### Currently working on some edtech software.
 
 ##### Hiring managers, call me 👉👈 ☎️
 
