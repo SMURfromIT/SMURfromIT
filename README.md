@@ -3,6 +3,10 @@
 ### Fresh grad writing some software 📝
 ### Check out my crime mapping app at https://opencrime.io 👮
 
+<br />
+
+## 🧰 Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,react,express,mysql,azure,html,css,wasm)](https://skillicons.dev)
 
 
 <!--
