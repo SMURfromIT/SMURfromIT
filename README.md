@@ -6,7 +6,7 @@
 <br />
 
 ## 🧰 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,react,express,mysql,azure,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,python,react,express,mysql,azure,html,css)](https://skillicons.dev)
 
 
 <!--
