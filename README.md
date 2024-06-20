@@ -1,10 +1,9 @@
-## HEY, I'M WINN 👋
+## HEY, I'M WINN 
 
 ### Fresh grad writing some software 📝
 ### Check out my crime mapping app at https://opencrime.io 👮
-#### Currently working on some edtech software.
+### Currently working on some edtech software.
 
-##### Hiring managers, call me 👉👈 ☎️
 
 <!--
 **winnmurray/winnmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
