@@ -2,10 +2,9 @@
 
 ### Fresh grad writing some software 📝
 ### Check out my crime mapping thing at https://opencrime.io 👮
-
 #### Currently working on an edtech thing.
 
-#### Hiring managers, call me 👉👈 ☎️
+##### Hiring managers, call me 👉👈 ☎️
 
 <!--
 **winnmurray/winnmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
