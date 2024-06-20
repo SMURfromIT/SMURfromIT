@@ -1,8 +1,6 @@
-## HEYO
+## HEY, I'M WINN
 
-#my repos gotta stay private ¯\_(ツ)_/¯ 
-
-check out my crime mapping thing at https://opencrime.io 
+# check out my crime mapping thing at https://opencrime.io 
 
 currently working on some edtech software....
 
