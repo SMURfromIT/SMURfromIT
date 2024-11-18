@@ -1,7 +1,6 @@
 ## Hi, I'm Stephen.
 
-### Fresh grad writing some software 📝
-### Check out my crime mapping app at https://opencrime.io 👮
+###https://opencrime.io 👮
 
 <br />
 
