@@ -2,11 +2,11 @@
 
 https://ivypromotion.com
 
-https://opencrime.io 👮
+https://opencrime.io 
 
 <br />
 
-## 🧰 Languages and Tools:
+##  Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,python,react,express,mysql,azure,html,css)](https://skillicons.dev)
 
 
