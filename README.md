@@ -4,7 +4,7 @@ Some websites:
 <br />
 https://ivypromotion.com
 
-https://opencrime.io (mySQL server offline)
+https://opencrime.io (MySQL server offline)
 
 <br />
 
