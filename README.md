@@ -1,8 +1,9 @@
 ## Hi, I'm Stephen.
 
+Some websites:
 https://ivypromotion.com
 
-https://opencrime.io 
+https://opencrime.io (mySQL server offline)
 
 <br />
 
