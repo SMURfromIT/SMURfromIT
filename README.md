@@ -11,7 +11,8 @@ https://opencrime.io (MySQL server offline)
 ##  Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,python,react,express,mysql,azure,html,css)](https://skillicons.dev)
 
-
+##  Certifications:
+- CompTIA A+
 <!--
 **winnmurray/winnmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
