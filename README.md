@@ -6,12 +6,10 @@ https://ivypromotion.com
 
 https://opencrime.io (MySQL server offline)
 
-<br />
 
 ##  Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,python,react,express,mysql,azure,html,css)](https://skillicons.dev)
 
-<br />
 
 ##  Certifications:
 - CompTIA A+
