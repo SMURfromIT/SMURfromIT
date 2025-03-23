@@ -1,6 +1,6 @@
 ## Hey, I'm Stephen.
 
-Not currently working on any public repos, but here's my github page.
+Not currently working on any public repos, but here's my GitHub profile.
 
 Some websites:
 <br />
