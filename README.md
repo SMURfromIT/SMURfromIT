@@ -1,5 +1,7 @@
 ## Hey, I'm Stephen.
 
+Not currently working on any public repos, but here's my github page.
+
 Some websites:
 <br />
 https://ivypromotion.com
@@ -12,6 +14,7 @@ https://opencrime.io (MySQL server offline)
 
 
 ##  Certifications:
+- CompTIA Network+
 - CompTIA A+
 - CompTIA Tech+
 <!--
