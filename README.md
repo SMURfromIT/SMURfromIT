@@ -2,6 +2,8 @@
 
 Not currently working on any public repos, but here's my GitHub profile.
 
+MGA Bachelor of Science in Information Technology - Class of 2024
+
 Some websites:
 <br />
 
