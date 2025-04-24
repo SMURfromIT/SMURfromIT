@@ -2,18 +2,7 @@
 
 Not currently working on any public repos, but here's my GitHub profile.
 
-Some websites:
-<br />
-
-https://smur.dev
-
-https://ivypromotion.com
-
-https://opencrime.io (MySQL server offline)
-
-
-##  Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,python,react,express,mysql,azure,html,css)](https://skillicons.dev)
+Have you visited smur.dev ?
 
 
 <!--
